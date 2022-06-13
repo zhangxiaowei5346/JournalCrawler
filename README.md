@@ -1,0 +1,2 @@
+# JournalCrawler
+demoClass: JoSBackIssueBrowsingCollector
