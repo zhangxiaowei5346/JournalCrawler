@@ -5,7 +5,7 @@ import ai.zhuanzhi.tool.model.{NamedLink, Topic}
 import ai.zhuanzhi.utils.InstitutionStrParse
 import com.google.gson.Gson
 import com.mongodb.spark.{MongoSpark, toDocumentRDDFunctions}
-import com.zhuanzhi.utils.InstitutionStrParse
+import ai.zhuanzhi.utils.InstitutionStrParse
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.SparkSession
 import org.bson.Document

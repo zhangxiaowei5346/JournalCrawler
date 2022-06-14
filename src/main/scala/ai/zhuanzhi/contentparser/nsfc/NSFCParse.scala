@@ -3,7 +3,7 @@ package ai.zhuanzhi.contentparser.nsfc
 import ai.zhuanzhi.mongodb.SparkMongoDBUtil
 import ai.zhuanzhi.webcollector.NSFC.NSFCHtmlParse
 import com.mongodb.spark.MongoSpark
-import com.zhuanzhi.webcollector.NSFC.NSFCHtmlParse
+import ai.zhuanzhi.webcollector.NSFC.NSFCHtmlParse
 import org.bson.Document
 
 object NSFCParse {

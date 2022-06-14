@@ -3,7 +3,7 @@ package ai.zhuanzhi.contentparser.jos
 import ai.zhuanzhi.mongodb.SparkMongoDBUtil
 import com.mongodb.spark.{MongoSpark, toDocumentRDDFunctions}
 import org.apache.spark.sql.SparkSession
-import com.zhuanzhi.webcollector.JoS.JoSHtmlParse
+import ai.zhuanzhi.webcollector.JoS.JoSHtmlParse
 
 import java.net.URLEncoder
 

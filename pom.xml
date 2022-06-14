@@ -58,11 +58,6 @@
       <version>1.13.1</version>
     </dependency>
     <dependency>
-      <groupId>com.zhuanzhi</groupId>
-      <artifactId>release-zhuanzhi-tool</artifactId>
-      <version>0.2</version>
-    </dependency>
-    <dependency>
       <groupId>commons-beanutils</groupId>
       <artifactId>commons-beanutils-core</artifactId>
       <version>1.8.3</version>

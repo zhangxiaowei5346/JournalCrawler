@@ -4,7 +4,7 @@ import ai.zhuanzhi.mongodb.SparkMongoDBUtil
 import ai.zhuanzhi.tool.model.{NamedLink, Topic}
 import com.google.gson.Gson
 import com.mongodb.spark.MongoSpark
-import com.zhuanzhi.utils.KeywordStrParse
+import ai.zhuanzhi.utils.KeywordStrParse
 import org.apache.ivy.osgi.util.ZipUtil.zip
 import org.apache.spark.sql.SparkSession
 import org.bson.Document

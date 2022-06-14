@@ -4,7 +4,7 @@ import ai.zhuanzhi.mongodb.SparkMongoDBUtil
 import ai.zhuanzhi.tool.model.{NamedLink, Topic}
 import ai.zhuanzhi.utils.FundStrParse
 import com.mongodb.spark.MongoSpark
-import com.zhuanzhi.utils.FundStrParse
+import ai.zhuanzhi.utils.FundStrParse
 
 import scala.collection.JavaConverters._
 import org.bson.Document
